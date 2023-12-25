@@ -1,0 +1,30 @@
+# Description for code usage
+
+### Question 1 
+
+You can change the input using "input.data" file. 
+To execute the code type ```./question1``` in terminal.
+
+### Question 2
+
+To execute the code type ```./question2``` in terminal.
+
+It will ask you to input the integer, after you do it, the asnwer: full precision result + double precision number.
+
+### Question 3 
+
+To execute the code type ```./question3``` in terminal.
+
+The input can be changed via adjusting the "data.2023-10-27" file. 
+
+The gnuplot scripts for parts "e" and "d" are in the "q3d.gp" and q3e.gp" files, respectively.
+
+Print results are in the "stat.out" file. 
+Plot results are in the 'fig 1.pdf' file. 
+
+To rebuild the plot use ```gunplot q3d.gp``` command.
+
+Interpretation is in the "fit.log" file.  To redo it use ```gunplot q3e.gp``` command.
+
+
+
