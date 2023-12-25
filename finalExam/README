@@ -1,0 +1,35 @@
+# Computational Physics Final Exam
+
+Vladislav Lenskii 2023-10871
+
+### Executors for all the task solutions can be created via ```make``` command
+
+
+## Task 1 
+
+Data for plot was printed in "data.txt" file.
+Plot can be found in "plot1.pdf" file.
+Found roots are in the "roots.txt" file.
+
+To run the code use ```./task1``` command. 
+It will print the points for the plot into "data.txt" and roots into "roots.txt" 
+
+To draw the plot use ```gnuplot ./task1_graph.gnu``` command.
+
+## Task 4 
+
+Data for plot was printed in "graph.in" file.
+Plot can be found in "plot4.pdf" file.
+Average values and covariance matrix are in the "stat.out" file.
+
+To run the code use ```./task4``` command. 
+It will print the points for the plot into "graph.in" and average values and covariance matrix into "stat.out" 
+
+To draw the plot use ```gnuplot ./task4_graph.gnu``` command.
+
+## Task 3
+
+Result for question 2 is printed in the terminal
+To run the code use ```./task3``` command. 
+
+
