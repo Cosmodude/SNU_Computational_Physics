@@ -1,0 +1,11 @@
+# Computational Physics SNU Autumn, 2023
+
+Use for your referance!
+
+### Each folder includes the tasks and solutions to it
+
+## Usage
+
+There is the universal Makefile
+
+Use by changing the target ```.cpp``` file names and running ```make``` command.
